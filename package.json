@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/marcsaleiko/match-height-helper/issues"
   },
-  "homepage": "https://github.com/marcsaleiko/match-height-helper#readme"
+  "homepage": "https://github.com/marcsaleiko/match-height-helper#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
