@@ -1,6 +1,6 @@
 {
   "name": "@marcsaleiko/match-height-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "MatchHeightHelper.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/marcsaleiko/match-height-helper/issues"
   },
-  "homepage": "https://github.com/marcsaleiko/match-height-helper#readme"
+  "homepage": "https://github.com/marcsaleiko/match-height-helper#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
