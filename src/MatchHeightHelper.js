@@ -1,9 +1,9 @@
 window.$ = window.jQuery = require('jquery');
 
-module.exports = MatchHeightHelper = (function(){
+exports = module.exports = MatchHeightHelper = (function(){
 
-  var app = {}
-  var settings = {
+  let app = {}
+  let settings = {
     defaultTriggerSelector: '.match-height',
     defaultTargetSelector: '.match-height-target',
   }

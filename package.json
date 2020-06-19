@@ -4,7 +4,8 @@
   "description": "",
   "main": "MatchHeightHelper.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,13 @@
   },
   "homepage": "https://github.com/marcsaleiko/match-height-helper#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  }
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  },
+  "browserslist": "> 0.25%, not dead"
 }
