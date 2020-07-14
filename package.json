@@ -2,7 +2,7 @@
   "name": "@marcsaleiko/match-height-helper",
   "version": "0.1.1",
   "description": "",
-  "main": "src/MatchHeightHelper.js",
+  "browser": "src/MatchHeightHelper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
