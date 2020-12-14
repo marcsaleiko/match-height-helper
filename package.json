@@ -1,6 +1,6 @@
 {
   "name": "@marcsaleiko/match-height-helper",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "MatchHeight Wrapper with helper functions for easy integration and initialisation.",
   "browser": "src/MatchHeightHelper.js",
   "scripts": {

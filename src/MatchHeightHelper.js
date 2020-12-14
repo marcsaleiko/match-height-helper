@@ -1,5 +1,5 @@
 /*!
- * MatchHeightHelper v1.1.0
+ * MatchHeightHelper v1.2.0
  * MatchHeight Wrapper with helper functions for easy integration and initialisation.
  * ISC License
  */
