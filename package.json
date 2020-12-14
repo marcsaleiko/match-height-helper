@@ -1,7 +1,7 @@
 {
   "name": "@marcsaleiko/match-height-helper",
   "version": "1.1.0",
-  "description": "",
+  "description": "MatchHeight Wrapper with helper functions for easy integration and initialisation.",
   "browser": "src/MatchHeightHelper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,3 +1,8 @@
+/*!
+ * MatchHeightHelper v1.1.0
+ * MatchHeight Wrapper with helper functions for easy integration and initialisation.
+ * ISC License
+ */
 window.MatchHeightHelper = function () {
   var app = {};
   var settings = {
